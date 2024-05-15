@@ -32,5 +32,6 @@ This Python script is a simple yet effective port scanner that allows users to s
 
   ```bash
      python3 p0rt_scanner.py
+  
 
-## Feel free to contribute to this project by suggesting improvements, reporting bugs, or adding new features. Happy scanning!
+Feel free to contribute to this project by suggesting improvements, reporting bugs, or adding new features. Happy scanning!
