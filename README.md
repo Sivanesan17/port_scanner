@@ -22,7 +22,7 @@ This Python script is a simple yet effective port scanner that allows users to s
 + Clone or download the repository to your local machine using these steps :
 
    ```bash
-   git clone https://github.com/your-username/port-scanner.git
+   git clone https://github.com/Sivanesan17/port_scanner.git
    
     cd port_scanner
 
