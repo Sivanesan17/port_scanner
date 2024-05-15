@@ -21,9 +21,9 @@ This Python script is a simple yet effective port scanner that allows users to s
 
 + Clone or download the repository to your local machine using these steps :
 
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
-
+    ```bash
+    git clone https://github.com/Sivanesan17/port_scanner.git
+    cd port_scanner
 
 + Ensure you have Python installed, along with the Scapy library.
 
