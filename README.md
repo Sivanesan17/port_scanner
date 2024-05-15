@@ -31,7 +31,7 @@ This Python script is a simple yet effective port scanner that allows users to s
 + Run the port_scanner.py script and follow the prompts to enter the target IP address and ports to scan.
 
   ```bash
-     python3 p0rt_scanner.py
+     sudo python3 p0rt_scanner.py
   
 
 Feel free to contribute to this project by suggesting improvements, reporting bugs, or adding new features. Happy scanning!
