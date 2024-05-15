@@ -20,18 +20,17 @@ This Python script is a simple yet effective port scanner that allows users to s
 **Usage:**
 
 + Clone or download the repository to your local machine using these steps :
-
+  
    ```bash
    git clone https://github.com/Sivanesan17/port_scanner.git
-   
-    cd port_scanner
+   cd port_scanner
 
 + Ensure you have Python installed, along with the Scapy library.
    
 + Run the port_scanner.py script and follow the prompts to enter the target IP address and ports to scan.
 
   ```bash
-     sudo python3 p0rt_scanner.py
+  sudo python3 p0rt_scanner.py
   
 
 Feel free to contribute to this project by suggesting improvements, reporting bugs, or adding new features. Happy scanning!
